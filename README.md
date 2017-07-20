@@ -9,7 +9,7 @@ WHATS:
 INSTALL:
 --------
     zip download
-    ハードも用意しましょう/
+    セグウェイも用意しましょう
 
 LICENSE:
 --------
@@ -19,4 +19,4 @@ LICENSE:
 AUTHOR:
 -------
 
-  * Riy0
+  * [Riy0] (https://github.com/Riy0)
